@@ -11,7 +11,6 @@
 <p dir="auto">
   
 [![AdhamMahmoud's GitHub | Stats](https://stats.quine.sh/AdhamMahmoud/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdhamMahmoud)
-[![AdhamMahmoud's GitHub | Languages Over Time](https://stats.quine.sh/AdhamMahmoud/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdhamMahmoud)
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
