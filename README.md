@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham Mahmoud</h1>
 <h3 align="center">The best Web Applications Developer in the world (ambitious)</h3>
 
-- 🌱 I’m currently Improve my skills **In React,JS & Next.JS**
+- 🌱 I’m currently Improve my skills **In React.JS & Next.JS**
 
 - 💬 Ask me about **react,vue,laravel**
 
