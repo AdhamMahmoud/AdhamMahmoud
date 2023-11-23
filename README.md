@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I'm in love with any business idea related to tech**
 
+[![AdhamMahmoud's GitHub | Stats](https://stats.quine.sh/AdhamMahmoud/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdhamMahmoud)
+[![AdhamMahmoud's GitHub | Languages Over Time](https://stats.quine.sh/AdhamMahmoud/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdhamMahmoud)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adhamuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhamuk" height="30" width="40" /></a>
