@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adham Mahmoud 👋</h1>
 
 <p align="center">
-  <b>Senior Full-Stack &amp; AI Engineer · Tech Lead</b><br/>
+  <b>Senior Full-Stack &amp; AI Engineer · Tech Lead · 7+ Years Experience</b><br/>
   I build production LLM &amp; multi-agent systems — and the full stack behind them.
 </p>
 
@@ -38,7 +38,7 @@
 
 | Role | Where | When |
 | --- | --- | --- |
-| Senior Full-Stack &amp; AI Engineer · Front-End Code Owner | **Pelcro** | 2025 – Present |
+| Senior Full-Stack &amp; AI Engineer | **Pelcro** | 2025 – Present |
 | Co-founder | **JokeyJoy Games** | 2023 – Present |
 | Senior Front-End / Full-Stack Engineer (Top Rated) | **Upwork** | 2019 – 2025 |
 
@@ -58,7 +58,7 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0A7D72?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-0A7D72?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0A7D72?style=flat-square)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -89,7 +89,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Infrastructure &amp; DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
