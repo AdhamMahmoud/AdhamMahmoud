@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adham Mahmoud 👋</h1>
 
 <p align="center">
-  <b>Senior Full-Stack &amp; AI Engineer · Tech Lead</b><br/>
+  <b>Senior Full-Stack &amp; AI Engineer</b><br/>
   I build production LLM &amp; multi-agent systems — and the full stack behind them.
 </p>
 
