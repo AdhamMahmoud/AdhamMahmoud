@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adham Mahmoud 👋</h1>
 
 <p align="center">
-  <b>Senior Full-Stack &amp; AI Engineer</b><br/>
+  <b>Senior Full-Stack &amp; AI Engineer · Tech Lead</b><br/>
   I build production LLM &amp; multi-agent systems — and the full stack behind them.
 </p>
 
@@ -16,9 +16,8 @@
 
 ### 👨‍💻 About me
 
-- 🧠 **Senior Full-Stack &amp; AI Engineer at [Pelcro](https://www.pelcro.com)** — I work across frontend, backend, and infrastructure on high-traffic, payment-critical enterprise systems, and I lead how the team ships with AI.
+- 🧠 **Senior Full-Stack &amp; AI Engineer at [Pelcro](https://www.pelcro.com)** — I work across frontend, backend, and infrastructure on high-traffic, payment-critical enterprise systems, and build the AI tooling that helps the engineering team ship faster.
 - 🤖 I build **production LLM &amp; multi-agent systems**: agent orchestration (LangGraph), RAG, MCP servers, and evals on AWS Bedrock, Claude &amp; OpenAI.
-- 🚀 Founder of **Analify** — an AI operator for ecommerce that turns ads + Shopify + shipping into true, after-returns profit.
 - 🌱 Self-taught since age 14 · 7+ years shipping web &amp; SaaS across freelance, employment, and founder roles.
 - 🧭 I care about systems that **survive production** and cost less to run: tests, tracing, and guardrails from day one.
 - 📍 Cairo, Egypt · open to remote.
@@ -40,7 +39,6 @@
 | Role | Where | When |
 | --- | --- | --- |
 | Senior Full-Stack &amp; AI Engineer · Front-End Code Owner | **Pelcro** | 2025 – Present |
-| Founder · AI product for ecommerce | **Analify** | 2025 – Present |
 | Co-founder | **JokeyJoy Games** | 2023 – Present |
 | Senior Front-End / Full-Stack Engineer (Top Rated) | **Upwork** | 2019 – 2025 |
 
@@ -117,19 +115,6 @@
 - **Pelcro AI support platform** — production multi-agent support (LangGraph, Claude on Bedrock, RAG) that triages real customer tickets.
 
 > 📌 See my pinned repositories below for the code.
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdhamMahmoud&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Adham's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamMahmoud&layout=compact&hide_border=true&langs_count=10&theme=transparent" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamMahmoud&hide_border=true&background=00000000" alt="GitHub streak" />
-</p>
 
 ---
 
